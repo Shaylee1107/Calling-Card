@@ -1,6 +1,7 @@
 body {
   background-color: black;
-  background-image: url(https://cdn.pixabay.com/photo/2023/06/12/10/39/tech-8058181_1280.png);
+  background-image: url(https://cdn.pixabay.com/photo/2023/06/12/10/39/tech-8058181_1280.png),
+                    url(wave.png);
   background-size: cover;
   background-repeat: center;
 }
